@@ -47,7 +47,7 @@ If no models are installed, the launcher will walk you through pulling one.
 
 ## Themes
 
-Oak (default), Dark, Aero, and Aqua are built in. Aqua is the most visually distinct — raised gel buttons, pinstripe chrome — and is easiest on the eyes during long sessions. All themes can be further customised via the Stylish browser extension targeting `localhost:8787`.
+Oak, Dark, Aero, and Aqua are built in. All themes can be further customised via the Stylish browser extension targeting `localhost:8787`.
 
 ---
 
@@ -70,6 +70,8 @@ Repose Storyteller is designed for Ollama running locally. Cloud API integration
 ## A note on hardware
 
 Generation speed depends entirely on your GPU. A 4GB VRAM card running a 7–8B model is the realistic floor for a usable experience. Anything less is technically functional in the same sense that a bicycle is technically a vehicle.
+
+MacOS has not been tested for tray behaviour but should easily work without it.
 
 ---
 
