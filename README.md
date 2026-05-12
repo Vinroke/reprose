@@ -23,7 +23,7 @@ It runs entirely in your browser, served locally. Your writing is stored in your
 
 ## Getting started
 
-1. Put `reprose-1_0-flare-inline-fix.html`, `reprose_launcher_tkinter.py`, and this README in the same folder.
+1. Put `reprose-1_1.html`, `reprose_launcher_tkinter.py`, and this README in the same folder.
 2. Run `reprose_launcher_tkinter.py` — double-click on Windows, or `python3 reprose_launcher_tkinter.py` on Linux/macOS.
 3. The launcher checks Ollama, starts a local server, and opens your browser.
 4. Select a model from the dropdown and start writing.
