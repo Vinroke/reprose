@@ -75,16 +75,9 @@ Generation speed depends entirely on your GPU. A 4GB VRAM card running a 7–8B 
 
 ## Known limitations
 
-- The right margin line behaviour varies by browser and sidebar state. It's a CSS quirk and has been designated a known cosmetic issue.
 - No epub export — use Calibre on the exported `.txt` file. It will do a better job anyway.
 - No cloud sync, no mobile support, no collaboration features. This is intentional.
 
----
 
-## License
-
-Do what you want with it. Credit is nice but not required. Don't sell it as your own work without meaningfully changing it — that would be poor form.
-
----
 
 *Built out of frustration with RLHF refusals mid-scene. Grew somewhat.*
