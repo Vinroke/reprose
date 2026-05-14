@@ -1,4 +1,4 @@
-# Repose Storyteller
+# Reprose Storyteller
 ### Offline AI-assisted fiction writing — powered by Ollama
 
 ---
